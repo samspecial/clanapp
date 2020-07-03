@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb4fb7c1ebca60f5b45219a8a0372377",
+    "revision": "ee7d316451a6c1e718909b51872524c3",
     "url": "/clanapp/index.html"
   },
   {

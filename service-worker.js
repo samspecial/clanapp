@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/clanapp/precache-manifest.255614922b6ab932bfc5f10c025968d5.js"
+  "/clanapp/precache-manifest.1a1962ecef1fdb694fecbb88fdd01479.js"
 );
 
 self.addEventListener('message', (event) => {
